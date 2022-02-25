@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+         <teiHeader>
+                  <fileDesc>
+                           <titleStmt>
+                                    <title>Baumkuchen</title>
+                           </titleStmt>
+                           <publicationStmt>
+                                    <p>not published</p>
+                           </publicationStmt>
+                           <sourceDesc>
+                                    <p>Handwritten Document. See ../img/baumkuchen.jpg</p>
+                           </sourceDesc>
+                  </fileDesc>
+         </teiHeader>
+         <text>
+                  <body>
+
+                           
+                           <head type="main">Baumkuchen</head>
+                           
+                           <p>
+                                    <rs type="ingerdients">
+                                             <measure type="ingredient"><num>100</num><unit> ml.</unit> Milch</measure>
+                                             <measure type="ingredient">Mark <num>1</num> V - Stange</measure>
+                                             <measure type="ingredient"><num>1</num><unit> Prise</unit> Zimt</measure>
+                                             <measure type="ingredient"><num>120</num><unit> g.</unit> Marzipan</measure>
+                                             <measure type="ingredient">abgeriebene Schale<num> 1</num> Zitrone</measure>  
+                                             <measure type="ingredient"><num>200</num><unit> g.</unit> <del rend="strikethrough">butterwar</del> zimmerwarme Butter</measure>    
+                                             <measure type="ingredient"><num>100</num><unit> g.</unit> Puderzucker</measure>
+                                             <measure type="ingredient"><num>6</num> Eier</measure>
+                                             <measure type="ingredient"><num>1</num><unit> Prise</unit> Salz</measure>
+                                             <measure type="ingredient"><num>80</num><unit> g.</unit> Zucker</measure>
+                                             <measure type="ingredient"><num>50</num><unit> g.</unit> Maisstärke</measure>
+                                             <measure type="ingredient"><num>100</num><unit> g.</unit> Mehl</measure>
+                                             <measure type="ingredient">zerlasene Butter</measure> für die Form
+                                             <measure type="ingredient">Aprikosenmarmelade, Glasur</measure>
+                                    </rs>
+                           </p>
+                           <p>
+                                    <rs type="instructions">
+                           Die Milch mit V.- Mark und Zimt aufkochen. Marzipan und Zitronenschale zugeben, glatt rühren und abkühlen lassen.
+                           Butter u. Puderzucker schaumig rühren. Eier trennen, Eidotter
+                           einzeln unterrühren.                    Marzipanmilch zugießen
+                           und zu einer glatten Creme verrühren.
+                           Eiklar mit <del rend="strikethrough"><unclear reason="illegible"></unclear></del>Salz halbfest schlagen, Zucker zugeben
+                           fest schlagen.Über die Hälfte des Eischnees Mehl und Maisstarke sieben
+                           und luftig vermischen. Die Eischnee - Mehlmasse und
+                           den restlichen Eischnee unter die Marzipanmase mischen.
+                                    Die Grillfunktion des Backofens einschalten.
+                           Kastenform mit Butter ausfetten und die erste Lage etwa 5mm
+                           dick einfüllen. Unter dem Grill etwa 2 min goldbraun backen.
+                           dann die 2. Schicht u- weiter.
+                           Mit heißer Aprikosenmarmelade bestreichen und mit Glasur
+                           nur oben  überziehen.
+                                    </rs>
+                           </p>
+                  </body>
+         </text>
+</TEI>

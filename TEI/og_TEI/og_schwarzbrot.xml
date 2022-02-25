@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI >
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Schwarzbrot</title>
+
+
+         </titleStmt>
+          
+          <publicationStmt>
+              <p>not published</p>
+          </publicationStmt>
+          <sourceDesc>
+              <p>Handwritten Document. See ../img/schwarzbrot.jpg</p>
+          </sourceDesc>
+      </fileDesc>
+      
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+        
+
+<head type="main">Schwarzbrot</head>
+
+<p>
+    <rs type="ingredients">
+    <measure type="ingredient"><num>180</num><unit>g.</unit>Roggenmehl</measure>
+    <measure type="ingredient"><num>220</num><unit>g.</unit>Dinkelvollkornmehl</measure>
+    <measure type="ingredient"><num>120</num><unit>g.</unit>Roggenschrot</measure>
+    <measure type="ingredient"><num>100</num><unit>g.</unit>Sonnenblumenkerne od. Haselnüsse</measure>
+    <measure type="ingredient"><num>500</num><unit>ml.</unit>Buttermilch</measure>
+    <measure type="ingredient"><num>15</num><unit>g.</unit>Salz</measure>
+    <measure type="ingredient"><num>28</num><unit>g.</unit>Hefe</measure>
+    <measure type="ingredient"><num>50</num><unit>g.</unit>Zuckerrübenkraut</measure>
+    </rs>
+</p>
+
+<p>
+    <rs type="instructions">
+    Buttermilch etwas erwärmen.
+    Alle Zutaten miteinander verkneten
+    für 3 Stunden bei 150°C abbacken
+                         Form fetten !
+    </rs>
+</p>
+
+
+      </body>
+
+  </text>
+
+</TEI>

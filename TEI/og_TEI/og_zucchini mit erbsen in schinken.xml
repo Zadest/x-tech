@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Zucchini mit Erbsen in Schinken - Sahne Sauce</title>
+
+
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/zuccini.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+        
+
+<head type="main">Zucchini mit Erbsen in Schinken - Sahne Sauce</head>
+<p>altes Rezept
+Sa. 3.10.92           
+</p>
+<p>
+   <rs type="instructions">
+   <measure type="ingredient"><num>1</num>fingerdicke Scheibe Kochschinken</measure> in
+   kleine Würfel schneiden <measure type="ingredient"><num>1</num>große Zwiebel</measure> würfeln
+   beides zusammen in <del rend="strikethrough">he</del>Fett andünsten
+   bis die Zwiebel glasig sind.
+   <measure type="ingredient"><num>2</num>Zucchini</measure> grob würfeln und zugeben.
+   <measure type="ingredient">tiefgefrorene Erbsen</measure> zugeben und mit
+   <measure type="ingredient"><num>1</num><unit>Becher</unit>Sahne</measure> ablöschen
+   <measure type="ingredient"><num>¼</num>Brühwürfel</measure> darin aufkochen und
+   etwas schmoren lassen
+   Dazu schmecken Nudeln
+   </rs>
+</p>
+
+      </body>
+
+  </text>
+
+</TEI>

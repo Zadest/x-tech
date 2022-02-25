@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Kassler mit Sauerkraut</title>
+             
+         </titleStmt>
+          
+          <publicationStmt>
+              <p>not published</p>
+          </publicationStmt>
+          <sourceDesc>
+              <p>Handwritten Document. See ../img/kassler.jpg</p>
+          </sourceDesc>
+      </fileDesc>
+      
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+  
+<head type="main">Kassler mit Sauerkraut</head>
+          <head type="sub">für 4 Personen </head>                  
+<p rend="left">
+<rs type="ingredients">
+    <measure type="ingredient"><num>750</num>-<num>1000</num><unit>g</unit>Kassler</measure>
+    <measure type="ingredient"><num>300</num><unit>g.</unit>Schalotten</measure>
+    <measure type="ingredient"><num>2</num>-<num>3</num>Äpfel</measure> 
+    <measure type="ingredient"><num>einige</num>Zweige Thymian</measure> 
+    <measure type="ingredient">Gemüsebrühe</measure>
+    <measure type="ingredient"><num>30</num><unit>g.</unit>Zucker</measure>,<measure type="ingredient"><num>40</num><unit>g.</unit>Butter</measure>
+    
+    <measure type="ingredient"><num>750</num><unit>g.</unit>Sauerkraut</measure> 
+    <measure type="ingredient">durchwachsener Speck</measure>
+    <measure type="ingredient">Zwiebel</measure>, <measure type="ingredient"><num>2</num>Wachholder</measure> 
+    beeren    
+</rs>
+</p> 
+
+<p rend="right">
+<rs type="instructions">
+In einer <del rend="strikethrough">feuerfesten</del>Pfanne den
+Zucker in der Butter schmelzen bei
+mittlerer Hitze. Dann das Kassler
+darin anbraten, die Schalotten
+zufügen und <del rend="strikethrough">den</del><add place="above">die</add> grob geriebenen 
+Äpfel zufügen. Thymian
+</rs>
+</p>
+ 
+
+      </body>
+
+  </text>
+
+</TEI>

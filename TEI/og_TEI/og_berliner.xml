@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baumkuchen</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/baumkuchen.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+  <text>
+      <body>
+         <head type="main">Berliner</head>
+         <p>
+         <rs type="ingredients">
+            <measure type="ingredient"><num>200</num><unit>ml.</unit>lauwarme Milch</measure>
+            <measure type="ingredient"><num>40</num><unit>g.</unit>Hefe</measure>
+            <measure type="ingredient"><num>500</num><unit>g.</unit>Mehl</measure>
+            <measure type="ingredient"><num>50</num><unit>g.</unit>Butter</measure>
+            <measure type="ingredient"><num>50 </num><unit>g.</unit>Zucker</measure>
+            <measure type="ingredient"><num>2</num>Eier</measure>
+            <measure type="ingredient"><num>1</num>Eigelb</measure>
+            <measure type="ingredient"><num>1</num><unit>Messerspitze</unit>Salz</measure>
+         </rs>
+         
+         </p>
+         <p>
+         <rs type ="instructions">
+            Hefeteig herstellen, gehen lassen
+            
+            Berliner ausstechen, auf <metamark function="textConnection" place="inline" rend="arrow"/>Blech gehen lassen
+            
+            <add place="below">entweder gefettet od. auf Backpapier</add>
+            
+            Im heißen Fett ausbacken, füllen mit <measure type="ingredient">Marmelade</measure>
+            － Puderzucker
+            
+            <add place="below"><hi rend="color:black">Marmelade vor dem Einfüllen erhitzen!</hi></add>
+         </rs>
+         </p>
+      </body>
+  </text>
+</TEI>

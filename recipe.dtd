@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT recipe (keywords,ingredients,instructions)>
+<!ATTLIST recipe key CDATA "">
+<!ELEMENT keywords (keyword*)>
+<!ELEMENT keyword (#PCDATA)>
+<!ELEMENT ingredients (ingredient+)>
+<!ELEMENT ingredient (num*,unit*,identifier*)>
+<!ELEMENT identifier (#PCDATA) >
+<!ELEMENT num (#PCDATA) >
+<!ELEMENT unit (#PCDATA)>
+<!ELEMENT instructions (#PCDATA)>

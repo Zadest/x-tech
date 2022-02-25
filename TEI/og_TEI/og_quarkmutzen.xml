@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Quarkmutzen</title>
+            
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/quarkmutzen.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+
+  <text>
+
+      <body>
+<head type="main">Quarkmutzen</head>
+<p>
+<rs type="instructions">
+<measure  type="ingredient"><num>4</num> Eier</measure> mit <measure type="ingredient"><num>250</num><unit>g.</unit>Zucker</measure> u. <measure type="ingredient"><num>1</num> <unit>Pck.</unit>V.-Zucker</measure>
+schlagen, <measure type="ingredient"><num>250</num> <unit>g</unit>Quark</measure> zugeben.
+<measure type="ingredient"><num>500</num><unit>g.</unit>Mehl</measure>, <measure type="ingredient"><num>1</num><unit>Pck.</unit>Backpulver</measure> unter-
+heben und verrühren.
+In heißem Fett ausbacken.
+</rs>
+</p>
+
+  </body>
+
+  </text>
+
+</TEI>

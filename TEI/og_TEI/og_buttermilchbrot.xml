@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Schwarzbrot</title>
+
+         </titleStmt>
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/schwarzbrot.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+<head type="main">Buttermilchbrot</head>
+
+<p>
+<rs type="ingredients">
+<measure type="ingredient"><num>500</num><unit>g.</unit>Buttermilch</measure>  ( erwärmen )
+<measure type="ingredient"><num>15</num><unit>g.</unit>Hefe</measure>
+<measure type="ingredient"><num>75</num><unit>g.</unit>Weizenmehl 550</measure>
+<measure type="ingredient"><nom>250</nom><unit>g.</unit>Roggenmehl 1150</measure>
+<measure type="ingredient"><num>15</num><unit>g.</unit>Salz</measure>
+<measure type="ingredient"><num>1</num><unit>Teel.</unit>Backmalz</measure>  
+</rs>
+</p>
+
+<p>
+<rs type="instructions">                       
+Alle Zutaten verkneten, dann 
+30 min gehen lassen. In einen
+Gärkorb legen und nochmal 45 min.
+gehen lassen.
+Dann 45 min. bei 225 °C abbacken.
+</rs>
+</p>
+
+      </body>
+
+  </text>
+
+</TEI>
+                       

@@ -1,0 +1,77 @@
+<recipe key="Kirschkuchen (Rezept Fr. Dath)">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>150</num>
+         <unit>g.</unit>
+         <identifier>Mehl</identifier>
+      </ingredient>
+      <ingredient>
+         <num>½</num>
+         <unit>Teel</unit>
+         <identifier>Backp.</identifier>
+      </ingredient>
+      <ingredient>
+         <num>50</num>
+         <unit>g.</unit>
+         <identifier>Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>V. Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>Ei</identifier>
+      </ingredient>
+      <ingredient>
+         <num>100</num>
+         <unit>g.</unit>
+         <identifier>Butter</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit>Gläser</unit>
+         <identifier>Kirschen ohne Saft</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>Eigelb</identifier>
+      </ingredient>
+      <ingredient>
+         <num>75</num>
+         <unit>g.</unit>
+         <identifier>Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>V. Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>3</num>
+         <unit>Eßl.</unit>
+         <identifier>Sahne</identifier>
+      </ingredient>
+      <ingredient>
+         <num>15</num>
+         <unit>g.</unit>
+         <identifier>15 Mondamin</identifier>
+      </ingredient>
+      <ingredient>
+         <num>100</num>
+         <unit>g.</unit>
+         <identifier>100 gehobelte Mandeln</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+    175°C etwa 45 min
+    
+    Füllung
+    2GläserKirschen ohne Saft1Eigelb75g.Zucker1V. Zucker3Eßl.Sahne1515 g.Mondamin100100 g.gehobelte Mandeln</instructions>
+</recipe>

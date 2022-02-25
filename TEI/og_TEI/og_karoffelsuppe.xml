@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Kartoffelsuppe (Björn Freitag)</title>
+
+
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/kartoffel-suppe.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+  <text>
+
+      <body>
+
+  
+<head type="main">Kartoffelsuppe (Björn Freitag)</head>
+
+<p>
+<rs type="ingredients">
+<measure type="ingredient"><num>300</num><unit>g</unit>Kartoffeln</measure> 
+<measure type="ingredient"><num>1</num><unit>Stange</unit>Porree</measure>
+<measure type="ingredient"><num>1</num>gewürfelte Zwiebel</measure>
+<measure type="ingredient"><num>1000</num><unit>ml.</unit>Brühe</measure>
+<measure type="ingredient"><num>500</num><unit>ml.</unit>Sahne</measure>
+<measure type="ingredient">weißer Balsamico<num>1</num> - <num>2</num><unit>Eßl</unit></measure>
+<measure type="ingredient">Livio Öl</measure>
+</rs>
+</p>
+
+<p>
+<rs type="instructions">
+Kartoffel und Zwiebel in 
+heißem Öl anschwitzen, leicht salzen.
+Lauch in Ringe schneiden - zugeben.
+Mit  Brühe auffüllen, würzen
+(<measure type="ingredient">Salz</measure>, <measure type="ingredient">Pfeffer</measure>, <measure type="ingredient">Muskatnuß</measure> ).
+Etwa 20 min köcheln lassen.
+Sahne und Essig zugeben und
+pürrieren.
+</rs>
+</p>
+
+      </body>
+
+  </text>
+
+</TEI>

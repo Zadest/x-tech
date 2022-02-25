@@ -1,0 +1,53 @@
+<recipe key="Schwarzbrot">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>180</num>
+         <unit>g.</unit>
+         <identifier>Roggenmehl</identifier>
+      </ingredient>
+      <ingredient>
+         <num>220</num>
+         <unit>g.</unit>
+         <identifier>Dinkelvollkornmehl</identifier>
+      </ingredient>
+      <ingredient>
+         <num>120</num>
+         <unit>g.</unit>
+         <identifier>Roggenschrot</identifier>
+      </ingredient>
+      <ingredient>
+         <num>100</num>
+         <unit>g.</unit>
+         <identifier>Sonnenblumenkerne od. Haselnüsse</identifier>
+      </ingredient>
+      <ingredient>
+         <num>500</num>
+         <unit>ml.</unit>
+         <identifier>Buttermilch</identifier>
+      </ingredient>
+      <ingredient>
+         <num>15</num>
+         <unit>g.</unit>
+         <identifier>Salz</identifier>
+      </ingredient>
+      <ingredient>
+         <num>28</num>
+         <unit>g.</unit>
+         <identifier>Hefe</identifier>
+      </ingredient>
+      <ingredient>
+         <num>50</num>
+         <unit>g.</unit>
+         <identifier>Zuckerrübenkraut</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+    Buttermilch etwas erwärmen.
+    Alle Zutaten miteinander verkneten
+    für 3 Stunden bei 150°C abbacken
+                         Form fetten !
+    </instructions>
+</recipe>

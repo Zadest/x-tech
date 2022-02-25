@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Löffenbiscuits</title>
+
+
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/löffelbiscuits.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+<head type="main">Löffenbiscuits</head>
+<p>
+<rs type="instructions">
+<measure type="ingredient"><num>4</num>Eier</measure> mit
+<measure type="ingredient"><num>220</num><unit>gr.</unit>Zucker</measure>  10 min. lang schlagen,
+<measure type="ingredient"><num>280</num><unit>g.</unit>gesiebtes Mehl</measure>unterheben
+
+          Löffelbiscuits auf ein Blech spritzen
+          und etwa 10 min. trocknen lassen
+          Mit Puderzucker bestäuben.
+          Für etwa 10 min. bei 170°C backen
+</rs>
+</p>
+ </body>
+
+  </text>
+
+</TEI>

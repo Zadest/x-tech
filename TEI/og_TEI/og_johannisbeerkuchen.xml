@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Johannisbeerkuchen</title>
+            
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/johannisbeerkuchen.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+  
+<head type="main">Johannisbeerkuchen</head>
+
+<p>
+<rs type="ingredients">
+Teig :   <measure type="ingredient"><num>300</num><unit>g.</unit>Mehl</measure>, <measure type="ingredient"><num>70</num><unit>g.</unit>Zucker</measure>, <measure type="ingredient"><num>1</num><unit>Prise</unit>Salz</measure>
+            <measure type="ingredient"><num>100</num><unit>g.</unit>kalte Butter</measure>, <measure type="ingredient"><num>1</num>Ei</measure> － Knetteig herstellen
+
+Belag:  <measure type="ingredient"><num>500</num><unit>g.</unit>Johannisbeeren</measure>, <measure type="ingredient"><num>80</num><unit>g.</unit>Butter</measure>
+            <measure type="ingredient"><num>200</num><unit>g.</unit>gem. Mandeln</measure>, <measure type="ingredient"><num>200</num><unit>g.</unit>Zucker</measure>
+            <measure type="ingredient"><num>40</num><unit>g.</unit>Speisestärke</measure> , <measure type="ingredient"><num>2</num><unit>gr.</unit>Oblaten</measure>
+            <measure type="ingredient"><num>3 </num>Eiweiße</measure>, <measure type="ingredient"><num>1</num><unit>Prise</unit>Salz</measure>
+
+</rs>
+</p>
+
+<p>
+<rs type="instructions">
+Johannisbeeren vorbereiten. Butter schmelzen
+und die Hälfte der Mandeln darin mit 100g.
+Zucker unter rühren leicht braun rösten.
+Mit Beeren und Stärke mischen.
+Teig in der ungefetteten Form ausrollen, Rand hoch,
+mehrmals einstechen und mit Oblaten belegen.
+Eiweiße mit Salz und Zucker steif schlagen.
+dies mit der Beerenmasse und den restlichen 
+Mandeln vermengen. In der Form glattstreichen.
+
+               50 - 60 min bei 200°C
+
+Fertigen Kuchen mit Puderzucker bestäuben
+</rs>
+</p>
+
+      </body>
+
+  </text>
+
+</TEI>

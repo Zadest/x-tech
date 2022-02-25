@@ -1,0 +1,77 @@
+<recipe key="Gelbe Paprikacremesuppe mit Ziegenkäse">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>5</num>
+         <unit>Eßl.</unit>
+         <identifier> Olivenöl</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Salz,</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Pfeffer</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Ziegenweichkäse</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1,5</num>
+         <unit>kg</unit>
+         <identifier> gelbe Paprika</identifier>
+      </ingredient>
+      <ingredient>
+         <num>100</num>
+         <unit>g.</unit>
+         <identifier> Schalotten</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit/>
+         <identifier> Knoblauchzehen</identifier>
+      </ingredient>
+      <ingredient>
+         <num>200</num>
+         <unit>ml</unit>
+         <identifier> trockener 
+    Weißwein</identifier>
+      </ingredient>
+      <ingredient>
+         <num>800</num>
+         <unit>ml.</unit>
+         <identifier> Gemüsefond</identifier>
+      </ingredient>
+      <ingredient>
+         <num>200</num>
+         <unit>ml.</unit>
+         <identifier> Sahne</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Zucker</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+Paprika würfeln, Schalotten
+würfeln in Öl glasig an -
+braten.
+Auf die Hälfte einkochen.
+Gemüsefond zugeben zum
+Kochen bringen und mit
+halb aufgelegtem Deckel
+35min. köcheln lassen.
+Suppe pürrieren, Sahne
+zugeben.
+Mit Salz, Pfeffer und Zucker
+abschmecken  
+</instructions>
+</recipe>

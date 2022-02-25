@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Windbeutel</title>
+
+
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/windbeutel.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+       
+
+<head type="main">Windbeutel</head>
+         <head type="sub">Teig :</head>
+<p>
+<rs type="instructions">
+   <measure type="ingredient"><num>80</num><unit>g.</unit>Butter</measure>,<measure type="ingredient"><num>1</num><unit>Eßl</unit>Zucker</measure>
+<measure type="ingredient"><num>1</num><unit>Prise</unit>Salz</measure>, <measure type="ingredient"><num>¼</num><unit>l</unit>Wasser</measure>  zum kochen bringen
+              <measure type="ingredient"><num>150</num><unit>g.</unit>Mehl</measure> einrühren, Platte ganz klein stellen
+
+              in eine Schüssel geben und etwas
+              abkühlen lassen
+
+              <measure type="ingredient"><num>4</num>Eier</measure> nacheinander unterarbeiten
+              <measure type="ingredient"><num>1</num><unit>Messerspitze</unit>Backpulver</measure> ebenfalls mit
+                 dem letzten Ei einarbeiten.
+
+              175°C   35 min
+
+               Mit 2 Löffeln Häufchen auf ein mit 
+               Backpapier ausgelegtes Blech geben.
+               Backofen die ersten 25 min. <hi rend="underline">nicht</hi> öffnen !!!
+   </rs>>
+</p>
+<p rend="left">
+   <rs type="instructions">
+<measure type="ingredient"><num>1</num><unit>Glas</unit>Kirschen</measure> 
+<measure type="ingredient"><num>20</num><unit>g.</unit>Mondamin</measure> 
+<measure type="ingredient"><num>1</num><unit>Eßl.</unit>Zucker</measure>      
+<metamark function="textConnection" rend="closing curly bracket" target="#aufkochenAbkühlen"/>
+   </rs>   
+</p>
+<p  rend="right">
+   <rs type="instructions">
+   aufkochen, abkühlen
+   </rs>
+</p>
+         <p>
+            <rs type="instructions"> 
+               <measure type="ingredient"><num>500</num><unit>ml</unit>Sahne</measure>
+               <measure type="ingredient"><num>25</num><unit>g.</unit>Puderzucker</measure>
+               <measure type="ingredient"><num>1</num>V.- Zucker</measure>
+</rs>
+</p>
+
+      </body>
+
+  </text>
+
+</TEI>

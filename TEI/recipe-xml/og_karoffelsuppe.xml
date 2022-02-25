@@ -1,0 +1,67 @@
+<recipe key="Kartoffelsuppe (Björn Freitag)">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>300</num>
+         <unit>g</unit>
+         <identifier>Kartoffeln</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Stange</unit>
+         <identifier>Porree</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>gewürfelte Zwiebel</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1000</num>
+         <unit>ml.</unit>
+         <identifier>Brühe</identifier>
+      </ingredient>
+      <ingredient>
+         <num>500</num>
+         <unit>ml.</unit>
+         <identifier>Sahne</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1 2</num>
+         <unit>Eßl</unit>
+         <identifier>weißer Balsamico - </identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Livio Öl</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Salz</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Pfeffer</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Muskatnuß</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+Kartoffel und Zwiebel in 
+heißem Öl anschwitzen, leicht salzen.
+Lauch in Ringe schneiden - zugeben.
+Mit  Brühe auffüllen, würzen
+(Salz, Pfeffer, Muskatnuß ).
+Etwa 20 min köcheln lassen.
+Sahne und Essig zugeben und
+pürrieren.
+</instructions>
+</recipe>

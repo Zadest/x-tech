@@ -1,0 +1,68 @@
+<recipe key="Kürbiskernbrot">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>750</num>
+         <unit>g.</unit>
+         <identifier>Mehl, Typ 550</identifier>
+      </ingredient>
+      <ingredient>
+         <num>250</num>
+         <unit>ml.</unit>
+         <identifier>Milch</identifier>
+      </ingredient>
+      <ingredient>
+         <num>150</num>
+         <unit>g.</unit>
+         <identifier>Butter</identifier>
+      </ingredient>
+      <ingredient>
+         <num>150</num>
+         <unit>ml.</unit>
+         <identifier>Ahornsirup</identifier>
+      </ingredient>
+      <ingredient>
+         <num>100</num>
+         <unit>ml.</unit>
+         <identifier>Kürbiskernöl</identifier>
+      </ingredient>
+      <ingredient>
+         <num>150</num>
+         <unit>g.</unit>
+         <identifier>Kürbiskerne</identifier>
+      </ingredient>
+      <ingredient>
+         <num>3</num>
+         <unit/>
+         <identifier>ganze Eier</identifier>
+      </ingredient>
+      <ingredient>
+         <num>25</num>
+         <unit>g.</unit>
+         <identifier>Hefe</identifier>
+      </ingredient>
+      <ingredient>
+         <num>20</num>
+         <unit>g.</unit>
+         <identifier>Salz</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>V.-Schote</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+Die Milch im Topf erwärmen. Butter, Sirup und
+Eier zugeben und mit einem Schneebesen verrühren.
+Das Mark der V.-Schote zugeben, dann das Öl.
+Zum Schluß die Hefe einrühren.
+Mehl und Salz vermischen, Butter - Milchgemisch
+unterkneten und die Kürbiskerne. Teig 30min.
+gehen lassen. 2 Brote formen, in gebutterte FFormen
+geben und nochmals 30 min gehen lassen.
+dann bei 200°C 30 - 40 min backen.
+</instructions>
+</recipe>

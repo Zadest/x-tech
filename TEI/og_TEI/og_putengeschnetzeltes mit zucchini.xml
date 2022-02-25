@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Putengeschnetzelstes mit Zucchini</title>
+
+
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/putengeschnetzeltes.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+<head type="main">Putengeschnetzelstes mit Zucchini</head>
+<p>
+<rs type="ingredients">
+<measure type="ingredient">Putenbrust</measure>, <measure type="ingredient"><num>1</num><unit>Eßl</unit>Zitronensaft</measure>, <measure type="ingredient"><num>1</num><unit>Teel.</unit>getrocknetes Basilikum</measure>
+, <measure type="ingredient"><num>800</num><unit>g.</unit>Zucchini</measure>, <measure type="ingredient"><num>1</num><unit>Eßl.</unit>Öl ( Margarine)</measure>
+<measure type="ingredient"><num>⅛.</num><unit>l.</unit>Sahne</measure>, <measure type="ingredient"><num>1</num><unit>Eßl.</unit>Butter</measure>, <measure type="ingredient"><num>⅛</num><unit>l.</unit>Gemüsebrühe</measure>,
+<measure type="ingredient"><num>1</num><unit>Eßl.</unit>Sojasauce</measure>,<measure type="ingredient"><num>2</num><unit>Eßl.</unit>Schmelzflocken</measure> 
+                 dazu : Salzkartoffel
+</rs>
+</p>
+<p>
+<rs type="instructions">
+Putenfleisch in Streifen schneiden, mit dem
+Zitronensaft und dem Basilikum beträufeln bzw.
+bestreuen. Zucchini waschen und in Stücke 
+schneiden. Das Putenfleisch anbraten, Brühe
+Sahne und Zucchini zugeben, mit Sojasauce
+würzen un 10 min bei schwacher Hitze dünsten.
+Mit den Schmelzflocken binden.
+</rs>
+</p>
+
+  </body>
+
+  </text>
+
+</TEI>

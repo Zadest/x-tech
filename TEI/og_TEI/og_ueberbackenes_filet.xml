@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Überbackenes Filet</title>
+
+
+         </titleStmt>
+          
+          <publicationStmt>
+              <p>not published</p>
+          </publicationStmt>
+          <sourceDesc>
+              <p>Handwritten Document. See ../img/überbackenes-filet.jpg</p>
+          </sourceDesc>
+      </fileDesc>
+      
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+        
+<head type="main"><hi rend="bold">Ü</hi>berbackenes <hi rend="bold">F</hi>ilet</head>
+<p rend="left">
+<rs type="ingredients">
+<measure type="ingredient"><hi rend="bold">S</hi>chweinefilet</measure>, <measure type="ingredient"><hi rend="bold">G</hi>emüse - 
+    zwiebel</measure>, <measure type="ingredient"><num>1</num><unit><hi rend="bold">B</hi>echer</unit><hi rend="bold">S</hi>ahne</measure>,
+    <measure type="ingredient"><num>1</num><unit><hi rend="bold">B</hi>echer</unit><hi rend="bold">K</hi>noblauch <hi rend="bold">C</hi>reme 
+fraiche</measure>, <measure type="ingredient"><num>1</num><hi rend="bold">M</hi>ilkana <hi rend="bold">K</hi>räuter-  
+käse</measure>,                       
+<measure type="ingredient"><hi rend="bold">S</hi>alz</measure>, <measure type="ingredient">Pfeffer</measure>               
+</rs>
+</p>                                                                                                                                        
+
+<p rend="right">
+    <rs type="instructions">
+    Schweinefilet von sehnen u. Häuten ent-
+    fernen. in Scheiben schneiden und flach
+    klopfen. Salzen, pfeffern und stark 
+    anbraten. Rausnehmen und in eine 
+    auflaufform legen. In dem selben Fett
+    Zwiebel ( in Ringe geschnitten ) schmoren.
+    Dann die Zwiebel über das Fleisch geben.
+    aus Käse, Creme fraiche und Sahne
+    eine Soße kurz aufkochen und über
+    Fleisch und Zwiebel geben. Im Back
+    ofen bei 200°C backen.  
+    </rs>  
+</p>
+
+
+
+Dazu schmeckt Feldsalat, Eisbergsalat oder Kopfsalat, Kroketten 
+oder Pompons.
+      </body>
+
+  </text>
+
+</TEI>

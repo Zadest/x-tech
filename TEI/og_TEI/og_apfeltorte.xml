@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apfeltorte</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/apfeltorte.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head type="main">Apfeltorte</head>
+         <p rend="left">
+            <rs type="ingredients">
+               <measure type="ingredient"><num>250</num><unit> g.</unit> Mehl</measure>                         
+               <measure type="ingredient"><num>125</num><unit> g.</unit> Zucker</measure>     
+               <measure type="ingredient"><num>1</num> Ei</measure>                                      
+               <measure type="ingredient"><num>150</num><unit> g.</unit> Butter</measure>                        
+               <measure type="ingredient"><num>7-8</num> säuerliche Äpfel</measure>  
+               <measure type="ingredient"><num>150 </num><unit>g.</unit> Butter</measure>                        
+               <measure type="ingredient"><num>125</num><unit> g.</unit> Zucker</measure>                       
+               <measure type="ingredient"><num>1</num>         V.-Zucker</measure>                   
+               <measure type="ingredient"><num>1</num>         Ei</measure>                               
+               <measure type="ingredient">Schale einer Zitrone </measure>            
+               <measure type="ingredient"><num>100</num><unit> g.</unit> Mehl</measure>                          
+               <measure type="ingredient"><num>¼</num><unit> l.</unit> Sahne</measure>                            
+               <measure type="ingredient"><num>1</num><unit> Eßl</unit> Zucker</measure>
+            </rs>
+         </p>
+         
+         
+         <p rend="right">
+            <rs type="instructions">
+               Knetteig herstellen
+               und kaltstellen
+               Boden u. Rand der
+               Springform auslegen
+               
+               Die geviertelten Äpfel
+               dicht in die Springform
+               legen.
+               Butter, Zucker, Ei u. Mehl
+               verrühren. Steifgeschlagene
+               Sahne unterheben.
+               Masse auf die Äpfel 
+               geben. Mit Zucker
+               und Mandeln bestreuen
+               
+               <num>175</num><unit> °C</unit> -<num> 60 </num><unit>min</unit>
+            </rs>
+         </p>
+         
+         <figure>
+            <figDesc>Fotografie eines runden Apfelkuchen mit Mandelbelag</figDesc>
+         </figure>
+      </body>
+  </text>
+</TEI>

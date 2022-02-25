@@ -1,0 +1,70 @@
+<recipe key="Kassler mit Sauerkraut">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>750 1000</num>
+         <unit>g</unit>
+         <identifier>-Kassler</identifier>
+      </ingredient>
+      <ingredient>
+         <num>300</num>
+         <unit>g.</unit>
+         <identifier>Schalotten</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2 3</num>
+         <unit/>
+         <identifier>-Äpfel</identifier>
+      </ingredient>
+      <ingredient>
+         <num>einige</num>
+         <unit/>
+         <identifier>Zweige Thymian</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Gemüsebrühe</identifier>
+      </ingredient>
+      <ingredient>
+         <num>30</num>
+         <unit>g.</unit>
+         <identifier>Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>40</num>
+         <unit>g.</unit>
+         <identifier>Butter</identifier>
+      </ingredient>
+      <ingredient>
+         <num>750</num>
+         <unit>g.</unit>
+         <identifier>Sauerkraut</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>durchwachsener Speck</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Zwiebel</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit/>
+         <identifier>Wachholder</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+In einer feuerfestenPfanne den
+Zucker in der Butter schmelzen bei
+mittlerer Hitze. Dann das Kassler
+darin anbraten, die Schalotten
+zufügen und dendie grob geriebenen 
+Äpfel zufügen. Thymian
+</instructions>
+</recipe>

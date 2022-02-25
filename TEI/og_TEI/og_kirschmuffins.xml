@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Kirschmuffins</title>
+
+
+         </titleStmt>
+          
+          <publicationStmt>
+              <p>not published</p>
+          </publicationStmt>
+          <sourceDesc>
+              <p>Handwritten Document. See ../img/kirschmuffins.jpg</p>
+          </sourceDesc>
+      </fileDesc>
+      
+  </teiHeader>
+
+  <text>
+
+      <body>
+<head type="main">Kirschmuffins</head>
+<p rend="left">
+<rs type="ingredients">
+<measure type="ingredient"><num>250</num><unit>g.</unit>Mehl</measure>                                 
+<measure type="ingredient"><num>3</num><unit>Teel.</unit>Backpud.</measure>
+<measure type="ingredient"><num>1</num><unit>Päck.</unit>V.- Pudding</measure> 
+<measure type="ingredient"><num>100</num><unit>g.</unit>Zucker</measure> 
+<measure type="ingredient"><num>2</num>Eier</measure> <measure type="ingredient"><num>75</num><unit>ml.</unit>Speiseöl ( Livio )</measure>
+<measure type="ingredient"><num>100</num><unit>ml.</unit>Milch</measure>
+<measure type="ingredient"><num>125</num><unit>g.</unit>Magerquark</measure> 
+
+<measure type="ingredient"><num>1</num><unit>Glas</unit>Sauerkirschen</measure> 
+</rs>
+</p>
+
+<p rend="right">
+    <rs type="instructions">
+    175°C ≈ 25 min.
+    </rs>
+</p>
+          
+<p>
+    Glasur
+    <rs type="ingredients">
+             <measure type="ingredient"><num>75</num><unit>g.</unit>Puderzucker</measure> 
+             <measure type="ingredient"><num>1</num><unit>Eßl.</unit>Kirschsaft</measure> 
+    </rs>
+</p>
+
+    </body>
+
+  </text>
+
+</TEI>

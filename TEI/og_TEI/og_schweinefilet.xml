@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Schweinefilet</title>
+
+
+         </titleStmt>
+        
+        <publicationStmt>
+          <p>not published</p>
+        </publicationStmt>
+        <sourceDesc>
+          <p>Handwritten Document. See ../img/schweinefilet.jpg</p>
+        </sourceDesc>
+      </fileDesc>
+    
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+        
+
+<head type="main">Schweinefilet</head>
+
+<p rend="left">
+  <rs type="ingredients">
+  <measure type="ingredient"><num>1-1,2</num><unit>kg</unit>Filet</measure>                   <lb/>
+  <measure type="ingredient"><num>1</num>Gemüsezwiebel</measure>            <lb/>
+  <measure type="ingredient"><num>500</num><unit>g.</unit>frische Champignons</measure>   <lb/>
+                                           <lb/>
+  <measure type="ingredient"><num>500</num><unit>g.</unit>Sahne</measure>                    <lb/>
+  <measure type="ingredient"><num>2</num><unit>El</unit>Tomatenmark</measure>             <lb/>
+  <measure type="ingredient"><num>2</num><unit> El</unit>Weinbrand </measure>                  <lb/>
+  <measure type="ingredient"><num>2</num><unit> El</unit>Speisestärke</measure><lb/>
+  <measure type="ingredient"><num>2</num><unit>Tl</unit>Senf</measure>                            <lb/>
+  <measure type="ingredient">Paprika</measure>, <measure type="ingredient">Salz</measure> , <measure type="ingredient">Pfeffer</measure>          <lb/>
+  <lb/>
+  <measure type="ingredient">Käse, gerieben</measure>                    <lb/>
+  <lb/>
+  <lb/>
+  </rs>
+</p>
+<p rend="right">
+  <rs type="instructions">
+  Die Filets salzen, pfeffern und<lb/>
+  braten. Dann in Scheiben schneiden <lb/>
+  500 g. frische Champignons und in eine Auflaufform legen.<lb/>
+  Die Zwiebel in Ringe schneiden.<lb/>
+  Die Champignons in Scheiben <lb/>
+  schneiden und im Bratfett dünsten.<lb/>
+  Auf das Filet geben<lb/>
+  <lb/>
+  Soßenzutaten verrühren und auf <lb/>
+  das Filet geben.<lb/>
+  <lb/>
+  Aus Käsestreifen ein Gitter auf-<lb/>
+  legen und ca 20 - 30 min über<lb/>
+  backen.
+  </rs>    
+</p>                                          
+
+
+      </body>
+
+  </text>
+
+</TEI>

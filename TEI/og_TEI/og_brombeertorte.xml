@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brombeer - Espresso - Sahne Torte</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/brombeertorte.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head type="main">Brombeer - Espresso - Sahne Torte</head>
+         
+         <head type="sub">Biscuit</head>
+         <p>
+            <rs type="instructions">
+            <measure type="ingredient"><num>2</num><unit>Teel.</unit>Instant Espressopulver</measure> mit <measure type="ingredient"><num>1</num><unit>Teel.</unit>Kakao</measure> in
+            <measure type="ingredient"><num>2</num><unit>Eßl.</unit>kaltem Wasser</measure> auflösen
+            </rs>
+         </p>
+         <p>
+         <rs type="instructions">
+            <measure type="ingredient"><num>4</num> Eier</measure> trennen, die Eiweiße mit einer <measure type="ingredient"><num>Prise</num> Salz</measure> 
+            steif schlagen
+            die Eigelbe mit <measure type="ingredient"><num>150</num><unit>g.</unit>  Zucker</measure> hell
+            und cremig schlagen
+            Die Hälfte des Espressopulvers
+            unter die Masse rühren. Dann
+            <measure type="ingredient"><num>60</num><unit>g</unit>Mehl</measure>, <measure type="ingredient"><num>60</num><unit>g.</unit>Speisestärke</measure> und
+            <measure type="ingredient"><num>1</num><unit>Teel.</unit>Backpulver</measure> mischen, sieben und
+            unterrühren.
+            Eiweiße unterheben
+            180°C ≈ 25 min
+            <measure type="ingredient">Sahne</measure>, <measure type="ingredient"><num>3</num><unit>Päckchen</unit>Sahnesteif</measure> und <measure type="ingredient"><num>75</num><unit>g</unit>Puderzucker</measure>
+            schnittfest schlagen, unter ⅓ doe restliche Hälfte 
+            des Espressopulver ziehen.
+            Boden einmal quer durchschneiden
+            auf die untere Hälfte die Espressosahne streichen,
+            dann etwa <measure type="ingredient"><num>500</num><unit>g.</unit>Brombeeren</measure>  darauf verteilen.
+            die restliche Sahne darüber verteilen. 2ten Boden auflegen.
+            Noch <measure type="ingredient"><num>200</num><unit>g.</unit>Sahne</measure> schlagen, die Torte damit verziehren
+            <measure type="ingredient">Geröstete Haselnusskerne</measure>  zum garnieren nehmen.
+         </rs>
+         </p>
+      </body>
+  </text>
+</TEI>

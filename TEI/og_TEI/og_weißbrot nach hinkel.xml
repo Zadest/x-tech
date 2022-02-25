@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Weißbrot nach Hinkel</title>
+
+
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/weißbrot.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+<head type="main">Weißbrot nach Hinkel</head>
+<p>
+   <rs type="ingredients">
+   <measure type="ingredient"><num>500</num><unit>g.</unit>Weizenmehl 550</measure> 
+   <measure type="ingredient"><num>90</num><unit>g.</unit>Zucker</measure>
+   <measure type="ingredient"><num>7</num><unit>g.</unit>Salz</measure>
+   <measure type="ingredient"><num>250</num><unit>g.</unit>Milch</measure>
+   <measure type="ingredient"><num>50</num><unit>g.</unit>Butter</measure>
+   </rs>
+</p>
+<p>
+   <rs type="intructions">
+   Am Abend zuvor,  einen Vorteig
+   ansetzten 
+   </rs>
+   </p>
+   <p> rend="left">
+      <rs type="intructions">
+   <measure type="ingredient"><num>30</num><unit>g.</unit>Mehl</measure>
+   <measure type="ingredient"><num>30</num><unit>g.</unit>Wasser</measure>
+   <measure type="ingredient"><num>1</num><unit>g.</unit>Hefe</measure>
+   <metamark function="textConnection" rend="closing curly bracket" target="#Plastikfolie"/>
+      </rs>
+   </p>
+
+   <p rend="right">
+      <rs type="intructions">
+   mit Plastikfolie abdecken, in den Kühlschrank stellen
+      </rs>
+   </p>
+         <p>
+         <rs type="intructions">
+   Am Tag aus allen Zutaten außer 
+   der Butter einen Teig herstellen.
+   15 min. ruhen lassen, dann
+   Teig 45 min gehen lassen, dann in eine Form geben (gebuttert) und
+   nochmal 45 min gehen lassen.
+   Jetzt 45 min. bei 190°C abbacken
+   </rs>
+</p>
+       </body>
+
+  </text>
+
+</TEI>

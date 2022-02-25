@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Kräuter - Senffilet</title>
+
+
+         </titleStmt>
+          
+          <publicationStmt>
+              <p>not published</p>
+          </publicationStmt>
+          <sourceDesc>
+              <p>Handwritten Document. See ../img/käuter-senffilet.jpg</p>
+          </sourceDesc>
+      </fileDesc>
+      
+  </teiHeader>
+
+  <text>
+
+      <body>
+      
+<head type="main">Kräuter - Senffilet</head>
+<p rend="left">
+    <rs type="ingredients">
+    <measure type="ingredient">Schweinefilet</measure>                  
+    <measure type="ingredient">Salz</measure>, <measure type="ingredient">Pfeffer</measure> ,                    
+    <measure type="ingredient"><num>2</num><unit>Eßl.</unit>Öl </measure>                         
+    <measure type="ingredient"><num>150</num><unit>g.</unit>Schalotten</measure>              
+    <measure type="ingredient"><num>1 - 2</num><unit>Eßl.</unit> Kräutersenf</measure>, <measure type="ingredient"><num>100</num><unit>ccm</unit>Brühe</measure>       
+    <measure type="ingredient"><num>1</num><unit>Becher</unit>Kräuter-Creme fraiche</measure>,                  
+    <measure type="ingredient">Zucker</measure>, <measure type="ingredient">Petersilie</measure>                    
+    </rs>
+</p>
+
+<p rend="right">
+<rs type="instructions">
+Fleisch mit Salz und Pfeffer ein-
+reiben und in heißem Öl braun
+braten. Schalotten zufügen. Das
+Fleisch mit Senf Bestreichen. Brühe
+zufügen und in der geschlossenen
+Pfanne 10 min schmoren. Fleisch
+herausnehmen und warm halten.
+Creme fraiche in die Soße rühren
+und <del rend="strikethrough">warm hal</del> mit <measure type="ingredient">Salz</measure>, <measure type="ingredient">Pfeffer</measure>
+und <measure type="ingredient"><num>einer</num><unit>Prise</unit> Zucker</measure> abschmecken.
+Gehackte Kräuter unterrühren.
+</rs>
+</p>
+
+      </body>
+
+  </text>
+
+</TEI>

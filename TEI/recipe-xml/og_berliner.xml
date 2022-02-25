@@ -1,0 +1,63 @@
+<recipe key="Berliner">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>200</num>
+         <unit>ml.</unit>
+         <identifier>lauwarme Milch</identifier>
+      </ingredient>
+      <ingredient>
+         <num>40</num>
+         <unit>g.</unit>
+         <identifier>Hefe</identifier>
+      </ingredient>
+      <ingredient>
+         <num>500</num>
+         <unit>g.</unit>
+         <identifier>Mehl</identifier>
+      </ingredient>
+      <ingredient>
+         <num>50</num>
+         <unit>g.</unit>
+         <identifier>Butter</identifier>
+      </ingredient>
+      <ingredient>
+         <num>50</num>
+         <unit>g.</unit>
+         <identifier>Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit/>
+         <identifier>Eier</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>Eigelb</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Messerspitze</unit>
+         <identifier>Salz</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Marmelade</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+            Hefeteig herstellen, gehen lassen
+            
+            Berliner ausstechen, auf Blech gehen lassen
+            
+            entweder gefettet od. auf Backpapier
+            
+            Im heißen Fett ausbacken, füllen mit Marmelade
+            － Puderzucker
+            
+            Marmelade vor dem Einfüllen erhitzen!</instructions>
+</recipe>

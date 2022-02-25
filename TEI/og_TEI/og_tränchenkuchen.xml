@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Tränchen-Kuchen</title>
+            
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/tränchenkuchen.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+        
+
+<head type="main">Tränchen-Kuchen</head>
+<p>
+<rs type="instructions">
+Aus den folgenden Zutaten einen Knetteig
+herstellen:  <measure type="ingredient"><num>200</num><unit>g</unit> Mehl</measure>, <measure type="ingredient"><num>1</num><unit >Teel.</unit>  Backp.</measure>, <measure type="ingredient"><num>75 </num><unit>g.</unit> Zucker,</measure>
+             <measure type="ingredient"><num>80</num><unit>g.</unit> Butter,</measure> <measure type="ingredient"><num>1</num> Ei</measure> 
+Teig in eine Springform füllen und einen Rand hochdrücken
+
+                              ------------------
+
+<measure type="ingredient"><num>500</num><unit>g.</unit>  Quark,</measure><measure type="ingredient"> <num>150</num><unit>g.</unit>  Zucker</measure>,<measure type="ingredient"> <num>3</num> Eigelb</measure>
+<measure type="ingredient"><num>1/2</num><unit> Tasse</unit>Öl,</measure><measure type="ingredient"> <num>1</num> V.-Zucker</measure>,<measure type="ingredient"> <num>1</num> V.- Pudding</measure>
+<measure type="ingredient"><num>8</num><unit> Teel.</unit> Zitronensaft</measure>,<measure type="ingredient"><num>200</num> <unit>ml.</unit> Milch</measure> 
+Alle Zutaten vermischen und auf dem
+Boden verteilen. ( Ist sehr flüssig )
+<num>1</num> Stunde backen bei <num>175</num> <unit>°C</unit> - <num>200</num> <unit>°C</unit>.
+-------------------------------------------------------
+<measure type="ingredient"><num>3</num> Eiweiß</measure>,<measure type="ingredient"> <num>75</num> <unit>g.</unit> Zucker </measure>steif schlagen,
+<num>10</num> min. vor 
+Ende der Backzeit auf dem Kuchen
+verteilen und mitbacken.
+</rs>
+</p>
+
+      </body>
+
+  </text>
+
+</TEI>

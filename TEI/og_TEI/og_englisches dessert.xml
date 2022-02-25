@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Englisches Dessert</title>
+
+         </titleStmt>
+
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/englisches-desert.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+<head type="main">Englisches Dessert</head>
+<p rend="left">
+   <rs type="ingredients">
+   <measure type="ingredient"><num>1</num>Mascarpone</measure> 
+   <measure type="ingredient"><num>2</num>Sahne</measure>
+   <measure type="ingredient"><num>50</num><unit>g.</unit>Zucker</measure>
+   <measure type="ingredient"><num>1</num><unit>Glas</unit>Kirschen</measure>
+   <measure type="ingredient"><num>100</num><unit>g.</unit>Mandeln</measure> 
+   <measure type="ingredient"><num>1</num><unit>Eßl.</unit>Butter</measure>  
+   <measure type="ingredient"><num>2</num><unit>Eßl.</unit>Zucker</measure>    
+   </rs>
+</p>
+
+<p rend="right">
+<rs type="instructions">
+Butter in einer Pfanne
+zerlassen und 2 Eßl Zucker
+darin auflösen. Mandel <del rend="overritten">n</del>-
+blätter hinzugeben und
+rösten. Auf Backpapier
+auskühlen lassen.
+1 Becher Sahne steif schlagen
+Mascarpone mit soviel
+flüssiger Sahne verrühren,
+bis eine cremige Masse 
+entsteht. Dabei 50 g. Zucker 
+unterrühren. Sahne
+unterheben. Jetzt eine Schicht 
+Creme in eine Schüssel geben,
+dann Kirschen, wieder Creme
+und zum Schluss Mandeln.
+</rs>
+</p>
+
+
+      </body>
+
+  </text>
+
+</TEI>

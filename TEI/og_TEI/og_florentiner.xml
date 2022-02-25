@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Florentiner</title>
+
+
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/florentiner.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+<head type="main">Florentiner</head>
+
+<p>
+<rs type="ingredients>">
+Teig :   <measure type="ingredient"><num>180</num><unit> g.</unit> Mehl,</measure><measure type="ingredient"><num> 60</num><unit> g.</unit> Puderzucker gesiebt,</measure>
+            <measure type="ingredient"><num>100</num><unit> g.</unit> Butter,</measure><measure type="ingredient"> <num>20</num><unit> g.</unit>gem. Mandeln,</measure><measure type="ingredient"><num> 1</num><unit> Prise</unit> Salz</measure>
+            <measure type="ingredient"> Mark einer halben Vanilleschote</measure>, <measure type="ingredient"><num>1</num> Eigelb</measure>
+</rs>
+</p>
+
+<p>
+<rs type="instructions">
+Buter weich kneten, nach und nach Puderzucker,
+Mandeln, Salz und Vanille zugeben, dann das Eigelb 
+und das Mehl.
+         <num>1</num> <unit>Std</unit> kühlen
+dünn auf Backpapier ausrollen, mit einer Gabel
+mehrmals einstechen und bei 
+                         <num>180</num><unit>°C</unit>≈<num><del ren="strikethrough">150</del> 15</num> <unit>min</unit> backen
+
+Die Schale einer
+        <measure type="ingredient">Bio Orange</measure> mit
+        <measure type="ingredient"><num>100</num><unit> g.</unit> Sahne</measure> aufkochen
+</rs>
+</p>
+            
+<p rend="left">
+<measure type="ingredient"><num>200</num><unit> g.</unit> Zucker</measure>
+<measure type="ingredient"><num>75</num><unit> g.</unit> Akazienhonig </measure> 
+<measure type="ingredient"><num>10</num><unit> g.</unit> Traubenzucker</measure>
+<measure type="ingredient"><num>60</num><unit> g</unit> Wasser</measure> 
+<metamark function="textConnection" rend="closing curly bracket" target="#einkochenZusatz"/>
+</p>
+
+<p rend="right">
+   <rs type="instructions">
+eink<del rend="overwritten">a</del>ochen, → bernsteinfarben,
+dann <measure type="ingredient"><num>100</num><unit>g.</unit> Butter</measure> darin 
+                                                              schmelzen
+   </rs>
+</p>
+<p>
+   <rs  type="instructions">
+               <measure type="ingredient"><num>75</num><unit> g.</unit> gehacktes Orangeat</measure> und
+               <measure type="ingredient"><num>220</num><unit> g.</unit> Mandelblätter</measure> zugeben
+
+Die Masse auf den vorgebackenen Boden verstreichen
+Backofen auf <num>220</num><unit> °C</unit> vorheizen.
+Etwa <num>10</num> - <num>12</num><unit> min</unit> abbacken
+Nach dem Auskühlen in <measure type="ingredient">Schokolade</measure> tunken
+</rs>
+</p>
+
+      </body>
+
+  </text>
+
+</TEI>

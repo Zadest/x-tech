@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Überbackener Spargel</title>
+
+
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>not published</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Handwritten Document. See ../img/überbackener-spargel.jpg</p>
+         </sourceDesc>
+      </fileDesc>
+     
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+        
+
+<head type="main">Überbackener Spargel</head>
+<p>
+   <rs type="ingredients">
+   <measure  type="ingredient"><num>1</num><unit>kg</unit>weißer Spargel</measure>,<measure type="ingredient">Salz</measure>,
+   <measure type="ingredient"><num>1</num><unit>Prise</unit>Zucker</measure>,<measure type="ingredient">Zitronensaft</measure>,<measure type="ingredient"><num>50</num><unit>g.</unit>Butter</measure> 
+   <measure type="ingredient"><num>400</num><unit>g.</unit>sehr kleine <add place="above">neue</add>Kartoffeln</measure>
+   <measure type="ingredient"><num>200</num><unit>G.</unit>roher Schinken</measure>,<measure type="ingredient"><num>4</num>Salbeiblätter</measure> 
+   <measure type="ingredient"><num>100</num><unit>g.</unit>geriebener Emmentaler</measure>
+   </rs>
+</p>
+         <p>
+--------
+         </p>
+<p>
+<rs type="instructions">
+Spargel schälen, in Salzwasser (<measure type="ingredient"><num>2</num><unit>Teel.</unit>Salz</measure>  )
+mit Zucker, Zitonensaft und <measure type="ingredient"><num>10</num><unit>g.</unit>Butter</measure>
+15 - 20 min. garen
+Kartoffeln kochen
+Schinken in feine Streifen schneiden
+Ofen vorheizen
+Salbeistreifen in <measure type="ingredient"><num>40</num><unit>g.</unit>Butter</measure> andünsten
+Spargel mit etwas Sud in eine gefettete
+Auflaufform geben. Kartoffeln, Schinken
+Salbeiblätter und Käse darübergeben
+5 min. überbacken
+</rs>
+</p>
+
+      </body>
+
+  </text>
+
+</TEI>

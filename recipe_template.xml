@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "recipe.dtd">
+<recipe key="wirsing-pfanne">
+   <keywords>
+       <keyword></keyword>
+   </keywords>
+   <ingredients>
+       <ingredient>
+           <num></num>
+           <unit></unit>
+           <identifier></identifier>
+       </ingredient>
+   </ingredients>
+   <instructions>
+       
+   </instructions>
+</recipe>

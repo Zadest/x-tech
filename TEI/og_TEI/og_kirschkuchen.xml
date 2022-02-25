@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Kirschkuchen (Rezept Fr. Dath)</title>
+
+
+         </titleStmt>
+          
+          <publicationStmt>
+              <p>not published</p>
+          </publicationStmt>
+          <sourceDesc>
+              <p>Handwritten Document. See ../img/kirschkuchen.jpg</p>
+          </sourceDesc>
+      </fileDesc>
+      
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+  
+<head type="main">Kirschkuchen (Rezept Fr. Dath)</head>
+<p rend="left">
+    <rs type="ingredients">
+    <measure type="ingredient"><num>150</num><unit>g.</unit>Mehl</measure>
+    <measure type="ingredient"><num>½</num><unit>Teel</unit>Backp.</measure>                   
+    <measure type="ingredient"><num>50</num><unit>g.</unit>Zucker</measure>
+    <measure type="ingredient"><num>1</num>V. Zucker</measure>
+    <measure type="ingredient"><num>1</num>Ei</measure>
+    <measure type="ingredient"><num>100</num><unit>g.</unit>Butter</measure>
+    </rs>
+</p>
+<p rend="right">
+    <rs type="instructions">
+    175°C etwa 45 min
+    </rs>
+</p>
+<p>
+    <rs type="instructions">
+    Füllung
+    <measure type="ingredient"><num>2</num> <unit>Gläser</unit>Kirschen ohne Saft</measure>
+    <measure type="ingredient"><num>1</num>Eigelb</measure>
+    <measure type="ingredient"><num>75</num><unit>g.</unit>Zucker</measure>
+    <measure type="ingredient"><num>1</num>V. Zucker</measure>
+    <measure type="ingredient"><num>3</num><unit>Eßl.</unit>Sahne</measure>
+    <measure type="ingredient"><num>15</num>15 <unit>g.</unit>Mondamin</measure>
+    <measure type="ingredient"><num>100</num>100 <unit>g.</unit>gehobelte Mandeln</measure>
+    </rs>
+</p>
+
+    </body>
+
+  </text>
+
+</TEI>

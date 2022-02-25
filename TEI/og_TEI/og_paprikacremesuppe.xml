@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+
+  <teiHeader>
+
+      <fileDesc>
+
+         <titleStmt>
+
+            <title>Gelbe Paprikacremesuppe mit Ziegenkäse</title>
+
+
+         </titleStmt>
+          
+          <publicationStmt>
+              <p>not published</p>
+          </publicationStmt>
+          <sourceDesc>
+              <p>Handwritten Document. See ../img/paprikasuppe.jpg</p>
+          </sourceDesc>
+      </fileDesc>
+      
+  </teiHeader>
+
+  <text>
+
+      <body>
+
+<head type="main">Gelbe Paprikacremesuppe
+               mit Ziegenkäse</head>
+
+<p rend="left">
+<rs type="ingredients">
+<measure type="ingredient"><num>5</num> <unit>Eßl.</unit> Olivenöl</measure>
+<measure type="ingredient">Salz,</measure><measure type="ingredient">Pfeffer</measure>
+<measure type="ingredient">Ziegenweichkäse</measure>
+<measure type="ingredient"><num>1,5</num> <unit>kg</unit> gelbe Paprika</measure>
+<measure type="ingredient"><num>100</num> <unit>g.</unit> Schalotten</measure>
+<measure type="ingredient"><num>2</num> Knoblauchzehen</measure>
+<measure type="ingredient"><num>200</num> <unit>ml</unit> trockener 
+    <lb/>Weißwein</measure>
+<measure type="ingredient"><num>800</num> <unit>ml.</unit> Gemüsefond</measure>
+<measure type="ingredient"><num>200</num> <unit>ml.</unit> Sahne</measure>
+<measure type="ingredient">Zucker</measure>
+</rs>
+</p>
+
+<p rend="right">
+<rs type="instructions">
+Paprika würfeln, Schalotten
+würfeln in Öl glasig an -
+braten.
+Auf die Hälfte einkochen.
+Gemüsefond zugeben zum
+Kochen bringen und mit
+halb aufgelegtem Deckel
+<num>35</num> <unit>min.</unit> köcheln lassen.
+Suppe pürrieren, Sahne
+zugeben.
+Mit Salz, Pfeffer und Zucker
+abschmecken  
+</rs>
+</p>
+
+ </body>
+
+  </text>
+
+</TEI>
