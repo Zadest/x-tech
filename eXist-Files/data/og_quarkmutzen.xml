@@ -1,0 +1,43 @@
+<recipe key="Quarkmutzen">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>4</num>
+         <unit/>
+         <identifier> Eier</identifier>
+      </ingredient>
+      <ingredient>
+         <num>250</num>
+         <unit>g.</unit>
+         <identifier>Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Pck.</unit>
+         <identifier>V.-Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>250</num>
+         <unit>g</unit>
+         <identifier>Quark</identifier>
+      </ingredient>
+      <ingredient>
+         <num>500</num>
+         <unit>g.</unit>
+         <identifier>Mehl</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Pck.</unit>
+         <identifier>Backpulver</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>4 Eier mit 250g.Zucker u. 1Pck.V.-Zucker
+schlagen, 250gQuark zugeben.
+500g.Mehl, 1Pck.Backpulver unter-
+heben und verrühren.
+In heißem Fett ausbacken.
+</instructions>
+</recipe>

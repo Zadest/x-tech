@@ -1,0 +1,66 @@
+<recipe key="Putengeschnetzelstes mit Zucchini">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Putenbrust</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Eßl</unit>
+         <identifier>Zitronensaft</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Teel.</unit>
+         <identifier>getrocknetes Basilikum</identifier>
+      </ingredient>
+      <ingredient>
+         <num>800</num>
+         <unit>g.</unit>
+         <identifier>Zucchini</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Eßl.</unit>
+         <identifier>Öl ( Margarine)</identifier>
+      </ingredient>
+      <ingredient>
+         <num>⅛.</num>
+         <unit>l.</unit>
+         <identifier>Sahne</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Eßl.</unit>
+         <identifier>Butter</identifier>
+      </ingredient>
+      <ingredient>
+         <num>⅛</num>
+         <unit>l.</unit>
+         <identifier>Gemüsebrühe</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Eßl.</unit>
+         <identifier>Sojasauce</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit>Eßl.</unit>
+         <identifier>Schmelzflocken</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+Putenfleisch in Streifen schneiden, mit dem
+Zitronensaft und dem Basilikum beträufeln bzw.
+bestreuen. Zucchini waschen und in Stücke 
+schneiden. Das Putenfleisch anbraten, Brühe
+Sahne und Zucchini zugeben, mit Sojasauce
+würzen un 10 min bei schwacher Hitze dünsten.
+Mit den Schmelzflocken binden.
+</instructions>
+</recipe>

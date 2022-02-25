@@ -1,0 +1,31 @@
+<recipe key="Löffenbiscuits">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>4</num>
+         <unit/>
+         <identifier>Eier</identifier>
+      </ingredient>
+      <ingredient>
+         <num>220</num>
+         <unit>gr.</unit>
+         <identifier>Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>280</num>
+         <unit>g.</unit>
+         <identifier>gesiebtes Mehl</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>4Eier mit
+220gr.Zucker  10 min. lang schlagen,
+280g.gesiebtes Mehlunterheben
+
+          Löffelbiscuits auf ein Blech spritzen
+          und etwa 10 min. trocknen lassen
+          Mit Puderzucker bestäuben.
+          Für etwa 10 min. bei 170°C backen
+</instructions>
+</recipe>

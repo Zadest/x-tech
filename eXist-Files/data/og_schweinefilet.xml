@@ -1,0 +1,81 @@
+<recipe key="Schweinefilet">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>1-1,2</num>
+         <unit>kg</unit>
+         <identifier>Filet</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>Gemüsezwiebel</identifier>
+      </ingredient>
+      <ingredient>
+         <num>500</num>
+         <unit>g.</unit>
+         <identifier>frische Champignons</identifier>
+      </ingredient>
+      <ingredient>
+         <num>500</num>
+         <unit>g.</unit>
+         <identifier>Sahne</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit>El</unit>
+         <identifier>Tomatenmark</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit>El</unit>
+         <identifier>Weinbrand </identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit>El</unit>
+         <identifier>Speisestärke</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit>Tl</unit>
+         <identifier>Senf</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Paprika</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Salz</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Pfeffer</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Käse, gerieben</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+  Die Filets salzen, pfeffern und
+  braten. Dann in Scheiben schneiden 
+  500 g. frische Champignons und in eine Auflaufform legen.
+  Die Zwiebel in Ringe schneiden.
+  Die Champignons in Scheiben 
+  schneiden und im Bratfett dünsten.
+  Auf das Filet geben
+  Soßenzutaten verrühren und auf 
+  das Filet geben.
+  Aus Käsestreifen ein Gitter auf-
+  legen und ca 20 - 30 min über
+  backen.
+  </instructions>
+</recipe>

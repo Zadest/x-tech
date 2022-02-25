@@ -1,0 +1,48 @@
+<recipe key="Zucchini mit Erbsen in Schinken - Sahne Sauce">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>fingerdicke Scheibe Kochschinken</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>große Zwiebel</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit/>
+         <identifier>Zucchini</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>tiefgefrorene Erbsen</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Becher</unit>
+         <identifier>Sahne</identifier>
+      </ingredient>
+      <ingredient>
+         <num>¼</num>
+         <unit/>
+         <identifier>Brühwürfel</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>1fingerdicke Scheibe Kochschinken in
+   kleine Würfel schneiden 1große Zwiebel würfeln
+   beides zusammen in heFett andünsten
+   bis die Zwiebel glasig sind.
+   2Zucchini grob würfeln und zugeben.
+   tiefgefrorene Erbsen zugeben und mit
+   1BecherSahne ablöschen
+   ¼Brühwürfel darin aufkochen und
+   etwas schmoren lassen
+   Dazu schmecken Nudeln
+   </instructions>
+</recipe>

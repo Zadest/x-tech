@@ -1,0 +1,80 @@
+<recipe key="Überbackener Spargel">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>1</num>
+         <unit>kg</unit>
+         <identifier>weißer Spargel</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Salz</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Prise</unit>
+         <identifier>Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Zitronensaft</identifier>
+      </ingredient>
+      <ingredient>
+         <num>50</num>
+         <unit>g.</unit>
+         <identifier>Butter</identifier>
+      </ingredient>
+      <ingredient>
+         <num>400</num>
+         <unit>g.</unit>
+         <identifier>sehr kleine Kartoffeln</identifier>
+      </ingredient>
+      <ingredient>
+         <num>200</num>
+         <unit>G.</unit>
+         <identifier>roher Schinken</identifier>
+      </ingredient>
+      <ingredient>
+         <num>4</num>
+         <unit/>
+         <identifier>Salbeiblätter</identifier>
+      </ingredient>
+      <ingredient>
+         <num>100</num>
+         <unit>g.</unit>
+         <identifier>geriebener Emmentaler</identifier>
+      </ingredient>
+      <ingredient>
+         <num>2</num>
+         <unit>Teel.</unit>
+         <identifier>Salz</identifier>
+      </ingredient>
+      <ingredient>
+         <num>10</num>
+         <unit>g.</unit>
+         <identifier>Butter</identifier>
+      </ingredient>
+      <ingredient>
+         <num>40</num>
+         <unit>g.</unit>
+         <identifier>Butter</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+Spargel schälen, in Salzwasser (2Teel.Salz  )
+mit Zucker, Zitonensaft und 10g.Butter
+15 - 20 min. garen
+Kartoffeln kochen
+Schinken in feine Streifen schneiden
+Ofen vorheizen
+Salbeistreifen in 40g.Butter andünsten
+Spargel mit etwas Sud in eine gefettete
+Auflaufform geben. Kartoffeln, Schinken
+Salbeiblätter und Käse darübergeben
+5 min. überbacken
+</instructions>
+</recipe>

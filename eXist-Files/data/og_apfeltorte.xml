@@ -1,0 +1,89 @@
+<recipe key="Apfeltorte">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>250</num>
+         <unit>g.</unit>
+         <identifier>Mehl</identifier>
+      </ingredient>
+      <ingredient>
+         <num>125</num>
+         <unit>g.</unit>
+         <identifier>Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>Ei</identifier>
+      </ingredient>
+      <ingredient>
+         <num>150</num>
+         <unit>g.</unit>
+         <identifier>Butter</identifier>
+      </ingredient>
+      <ingredient>
+         <num>7-8</num>
+         <unit/>
+         <identifier>säuerliche Äpfel</identifier>
+      </ingredient>
+      <ingredient>
+         <num>150</num>
+         <unit>g.</unit>
+         <identifier>Butter</identifier>
+      </ingredient>
+      <ingredient>
+         <num>125</num>
+         <unit>g.</unit>
+         <identifier>Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>V.-Zucker</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit/>
+         <identifier>Ei</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit/>
+         <identifier>Schale einer Zitrone</identifier>
+      </ingredient>
+      <ingredient>
+         <num>100</num>
+         <unit>g.</unit>
+         <identifier>Mehl</identifier>
+      </ingredient>
+      <ingredient>
+         <num>¼</num>
+         <unit>l.</unit>
+         <identifier>Sahne</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Eßl</unit>
+         <identifier>Zucker</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>
+               Knetteig herstellen
+               und kaltstellen
+               Boden u. Rand der
+               Springform auslegen
+               
+               Die geviertelten Äpfel
+               dicht in die Springform
+               legen.
+               Butter, Zucker, Ei u. Mehl
+               verrühren. Steifgeschlagene
+               Sahne unterheben.
+               Masse auf die Äpfel 
+               geben. Mit Zucker
+               und Mandeln bestreuen
+               
+               175 °C - 60 min</instructions>
+</recipe>

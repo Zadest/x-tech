@@ -1,0 +1,153 @@
+@media (min-width:50em){
+    .container{
+        display:grid;
+        grid-template-columns:1fr 2fr;
+    }
+    
+    .ingredients ul{
+        min-width:400px;
+        height:fit-content;
+        width:fit-content;
+    }
+}
+
+.h-5{
+  height:50px;  
+} 
+.w-5{
+    width:50px;
+}
+
+body {
+    margin:0;
+    padding:0;
+    background-color:#f3f5f0;
+}
+
+nav {
+    width:100vw;
+    background-color: #e5ebda;
+    padding-top:10px;
+    padding-bottom:10px;
+    display:block;
+    min-height: 60px;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius:15px;
+}
+
+nav form{
+    margin:0;
+    padding: 10px;
+}
+
+.q{
+    padding:2.5pt;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 25pt;
+    position: absolute;
+    left: 50%;
+    top: 40px;
+    transform: translate(-50%, -50%);
+    border:none;
+    border-radius: 15pt;
+    text-align:center
+}
+.q:focus{
+    outline-offset:2.5pt;
+    outline-color: #6e9426;
+}
+
+.homelink{
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    transform: translate(-50%, -50%);
+    color:black;
+    text-decoration:none;
+}
+
+.homelink:hover{
+    color: #6e9426;
+}
+.homelink:focus{
+    outline:none;
+    color: #6e9426;
+}
+
+.container{
+    margin:auto;
+}
+
+.container > *{
+    margin:10px;
+}
+
+.ingredients{
+    width:full;
+    min-width:300px;
+    padding:10px;
+    background-color:#f9faf7;
+    border-radius:12pt;
+}
+
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center;
+}
+
+.ingredients ul{
+    padding: 10px;
+    width:full;
+    list-style-type:none;
+}
+
+.instructions{
+    padding: 10px;
+    width:full;
+    background-color:#f9faf7;
+    border-radius:12pt;
+}
+
+.listview{
+    width: full;
+    min-height: 70vh;
+    height: full;
+    border-radius: 15px;
+    background-color:#e5ebda;
+    margin-top:15px;
+    padding:10px;
+}
+
+.listing{
+    list-style:none;
+    display:block;
+}
+
+.item{
+    background-color:#acd166;
+    width:fit-content;
+    padding: 10px;
+    margin:10px;
+    min-width: 100px;
+    border-radius: 4px;
+}
+.item:hover{
+    cursor:pointer;
+    background-color:#f3f5f0;
+    outline:red;
+}
+
+.listing a{
+    cursor:pointer;
+    color:black;
+    text-decoration:none;
+    width:fit-content;
+}
+
+.listing a:hover{
+    color: #6e9426;
+    outline: red;
+}

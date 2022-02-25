@@ -1,0 +1,44 @@
+<recipe key="Buttermilchbrot">
+   <keywords>
+      <keyword/>
+   </keywords>
+   <ingredients>
+      <ingredient>
+         <num>500</num>
+         <unit>g.</unit>
+         <identifier>Buttermilch</identifier>
+      </ingredient>
+      <ingredient>
+         <num>15</num>
+         <unit>g.</unit>
+         <identifier>Hefe</identifier>
+      </ingredient>
+      <ingredient>
+         <num>75</num>
+         <unit>g.</unit>
+         <identifier>Weizenmehl 550</identifier>
+      </ingredient>
+      <ingredient>
+         <num/>
+         <unit>g.</unit>
+         <identifier>Roggenmehl 1150</identifier>
+      </ingredient>
+      <ingredient>
+         <num>15</num>
+         <unit>g.</unit>
+         <identifier>Salz</identifier>
+      </ingredient>
+      <ingredient>
+         <num>1</num>
+         <unit>Teel.</unit>
+         <identifier>Backmalz</identifier>
+      </ingredient>
+   </ingredients>
+   <instructions>                       
+Alle Zutaten verkneten, dann 
+30 min gehen lassen. In einen
+Gärkorb legen und nochmal 45 min.
+gehen lassen.
+Dann 45 min. bei 225 °C abbacken.
+</instructions>
+</recipe>
